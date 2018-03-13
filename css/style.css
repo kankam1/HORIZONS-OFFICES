@@ -1,0 +1,106 @@
+        .slide1{
+           background-image: url('Lighthouse.jpg');
+            height: 600px;
+            background-repeat: no-repeat;
+            background-position: center;
+            background-size: cover;
+        }
+        .slide2{
+           background-image: url('peopel-coffee-tea-meeting.jpg');
+            height: 500px;
+            background-repeat: no-repeat;
+            background-position: center;
+            background-size: cover;
+        }
+        .slide3{
+           background-image: url('pexels-photo-311012.jpeg');
+            height: 500px;
+            background-repeat: no-repeat;
+            background-position: center;
+            background-size: cover;
+        }
+        .slide4{
+           background-image: url('pexels-photo-356830.jpeg');
+            height: 500px;
+            background-repeat: no-repeat;
+            background-position: center;
+            background-size: cover;
+        }
+         .slide5{
+           background-image: url('pexels-photo-380768.jpeg');
+            height: 500px;
+            background-repeat: no-repeat;
+            background-position: center;
+            background-size: cover;
+        }
+         .slide6{
+           background-image: url('pexels-photo-515169.jpeg');
+            height: 500px;
+            background-repeat: no-repeat;
+            background-position: center;
+            background-size: cover;
+        }
+        .logo {
+          width: 232px;
+          height:  73px;
+        }
+        .footer-text h4{
+          color: #bd8725;
+        }
+        .footer-text h5{
+          color: #658821;
+        }
+        .footer {
+          background-color: #161863;
+          padding: 23px;
+         text-align: center;
+         }
+        .footer-text p{
+          color: white;
+        }
+        .top-nav-links {
+    padding-top: 20px;
+    font-weight: bold;
+    font-size: 18px;
+    display: block;
+     }
+
+.top-navigation-bar {
+  border-color: transparent;
+    border-radius: 0;
+    min-height: 80px;
+    border-bottom: 20px solid;
+    margin-bottom: 5px;
+  }
+  .navbar-brand {
+    float: none; 
+    height: 50px;
+    padding: 0;
+    font-size: 18px;
+    line-height: 0;
+  }
+    h2{
+     text-align: center;
+  }
+.navbar{
+  background-color: white;
+  margin-bottom: 0px;
+}
+
+.navbar-default  .navbar-nav>li>a {
+  color: #292986;
+}
+.thumbnail img{
+  height: 180px;
+  width: 300px;
+}
+.navbar-default {
+  border-color: transparent;
+
+}
+.container-fluid {
+    padding-right: 15px;
+    padding-left: 97px;
+    margin-right: auto;
+    margin-left: auto;
+}
